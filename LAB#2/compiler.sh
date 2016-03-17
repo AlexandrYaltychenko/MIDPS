@@ -1,6 +1,6 @@
 #!/bin/bash
-gcc hello_c.c -o hello_c
-javac hello_java.java
-g++ hello_c++.cpp -o hello_c++
-python -m py_compile hello_python.py
-rbx compile hello_ruby.rb -o hello_ruby.rbc
+gcc scripts/hello_c.c -o scripts/hello_c
+javac scripts/hello_java.java
+g++ scripts/hello_c++.cpp -o scripts/hello_c++
+python -m py_compile scripts/hello_python.py
+rbx compile scripts/hello_ruby.rb -o scripts/hello_ruby.rbc

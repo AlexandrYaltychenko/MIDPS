@@ -14,3 +14,4 @@ Scriptul hello_ruby.rb a fost compilat in byte-code prin intermediul
 **Rubinius**, implementarii limbajului care ofera aceasta posibilitate. 
 Link-ul: [Rubinius](http://rubinius.com/2011/03/17/running-ruby-with-no-ruby/)
 
+*Scriptul basic_compiler.sh compileaza doar java, python, c++ si c (fara ruby) si tot este plasat in mapa Lab#2*

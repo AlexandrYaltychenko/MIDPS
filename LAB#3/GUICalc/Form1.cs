@@ -13,9 +13,9 @@ namespace GUICalc
 {
     public partial class Form1 : Form
     {
-        public static bool prevOp = false;
-        public static bool singleOp = false;
-        public static bool prevEq = false;
+        public bool prevOp = false;
+        public bool singleOp = false;
+        public bool prevEq = false;
         public Form1()
         {
             InitializeComponent();

@@ -11,5 +11,6 @@ prin intermediul IDE Visual Studio 2015 in limbajul C#. Calculatorul suportă op
 
 ###LaTeX
 
-Versiunea raportului convertata din MS WORD - Raport.pdf
+Versiunea raportului convertata din MS WORD - Raport.pdf.
+
 Versiunea raportului creata in LaTeX - Raport_latex.pdf (sursa in mapa LaTeX)

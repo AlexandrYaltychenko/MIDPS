@@ -15,3 +15,11 @@ Scriptul hello_ruby.rb a fost compilat in byte-code prin intermediul
 Link-ul: [Rubinius](http://rubinius.com/2011/03/17/running-ruby-with-no-ruby/)
 
 *Scriptul basic_compiler.sh compileaza doar java, python, c++ si c (fara ruby) si tot este plasat in mapa Lab#2*
+
+
+###LaTeX
+
+Versiunea raportului in pdf (convertat din MS WORD) poate fi gasita in fisierul
+Raport.pdf.
+
+Am incercat sa fac raport si in LaTeX. Rezultatul se afla in raport_latex.pdf, iar sursa in mapa latex.

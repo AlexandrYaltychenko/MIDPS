@@ -1,2 +1,8 @@
 .DS_Store
 **/.texpadtmp
+**/*.~cpp
+**/*.~bpr
+**/*.~h
+**/*.~dfm
+**/*.~ddp
+**/Temporary*.*

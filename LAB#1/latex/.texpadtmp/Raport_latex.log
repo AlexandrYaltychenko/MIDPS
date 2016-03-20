@@ -1,0 +1,276 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.26)  20 MAR 2016 13:19
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Raport_latex.tex
+(./Raport_latex.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 21 languages loaded.
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/local/texlive/2015basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2015basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/local/texlive/2015basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2015basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (/usr/local/texlive/2015basic/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+ (/usr/local/texlive/2015basic/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+ (/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (/usr/local/texlive/2015basic/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen105
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen108
+ (/usr/local/texlive/2015basic/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+) (/usr/local/texlive/2015basic/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+ (/Users/Alexandr/midps/LAB#1/latex/.texpadtmp/Raport_latex.aux)
+\openout1 = `Raport_latex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+ (/usr/local/texlive/2015basic/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen110
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks17
+) (/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+) (/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2015basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+ (/usr/local/texlive/2015basic/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+ (/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)) (/usr/local/texlive/2015basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+ (/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+ (/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+ (/usr/local/texlive/2015basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\c@lstlisting=\count102
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 22.
+ [1
+
+{/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
+ (/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+Missing character: There is no Å in font cmr12!
+Missing character: There is no Ÿ in font cmr12!
+Missing character: There is no Å in font cmr12!
+Missing character: There is no Ÿ in font cmr12!
+Missing character: There is no Å in font cmr12!
+Missing character: There is no Ÿ in font cmr12!
+Missing character: There is no Å in font cmr12!
+Missing character: There is no Ÿ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no Ž in font cmr12!
+Missing character: There is no Å in font cmr12!
+Missing character: There is no Ÿ in font cmr12!
+
+Overfull \hbox (8.9557pt too wide) in paragraph at lines 38--39
+[]\OT1/cmr/m/n/12 Insuirea mod-u-lui de uti-lizare a com-po-nen-telor VCL TPaint-Box si TPanel.
+ []
+
+<images/1.png, id=10, 319.1925pt x 221.82875pt>
+File: images/1.png Graphic file (type png)
+ <use images/1.png>
+Package pdftex.def Info: images/1.png used on input line 45.
+(pdftex.def)             Requested size: 355.65944pt x 247.17378pt.
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ƒ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ® in font cmr12!
+ <images/2.png, id=12, 469.755pt x 236.885pt>
+File: images/2.png Graphic file (type png)
+ <use images/2.png>
+Package pdftex.def Info: images/2.png used on input line 49.
+(pdftex.def)             Requested size: 455.24408pt x 229.56851pt.
+ <images/3.png, id=13, 279.0425pt x 203.76125pt>
+File: images/3.png Graphic file (type png)
+ <use images/3.png>
+Package pdftex.def Info: images/3.png used on input line 50.
+(pdftex.def)             Requested size: 355.65944pt x 259.71597pt.
+
+Overfull \hbox (94.61877pt too wide) in paragraph at lines 46--51
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--51
+
+ []
+
+[1 <./images/1.png>]
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ƒ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ƒ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ƒ in font cmr12!
+ <images/4.png, id=19, 467.7475pt x 282.05376pt>
+File: images/4.png Graphic file (type png)
+ <use images/4.png>
+Package pdftex.def Info: images/4.png used on input line 52.
+(pdftex.def)             Requested size: 355.65944pt x 214.47496pt.
+ <images/5.png, id=20, 327.2225pt x 273.02pt>
+File: images/5.png Graphic file (type png)
+ <use images/5.png>
+Package pdftex.def Info: images/5.png used on input line 53.
+(pdftex.def)             Requested size: 298.75394pt x 249.26927pt.
+ [2 <./images/2.png> <./images/3.png>] [3 <./images/4.png> <./images/5.png>]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 62.
+ (/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 62.
+ [4] [5] <images/6.png, id=38, 308.352pt x 208.1376pt>
+File: images/6.png Graphic file (type png)
+ <use images/6.png>
+Package pdftex.def Info: images/6.png used on input line 135.
+(pdftex.def)             Requested size: 298.75394pt x 201.66138pt.
+ [6 <./images/6.png>] [7] [8] [9] [10] <images/7.png, id=56, 334.3692pt x 253.4268pt>
+File: images/7.png Graphic file (type png)
+ <use images/7.png>
+Package pdftex.def Info: images/7.png used on input line 318.
+(pdftex.def)             Requested size: 298.75394pt x 226.44627pt.
+ [11 <./images/7.png>] [12] [13] [14] [15] [16]
+Overfull \hbox (25.94928pt too wide) in paragraph at lines 527--529
+[][][][][][][][][][][][][][][][][] 
+ []
+
+[17] [18] <images/8.png, id=84, 525.162pt x 353.1594pt>
+File: images/8.png Graphic file (type png)
+ <use images/8.png>
+Package pdftex.def Info: images/8.png used on input line 604.
+(pdftex.def)             Requested size: 298.75394pt x 200.90416pt.
+Missing character: There is no È in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no È in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no È in font cmr12!
+Missing character: There is no › in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ƒ in font cmr12!
+Missing character: There is no È in font cmr12!
+Missing character: There is no › in font cmr12!
+Missing character: There is no È in font cmr12!
+Missing character: There is no › in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ƒ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ® in font cmr12!
+ [19 <./images/8.png>] [20] (/Users/Alexandr/midps/LAB#1/latex/.texpadtmp/Raport_latex.aux) ) 
+Here is how much of TeX's memory you used:
+ 2761 strings out of 494501
+ 40938 string characters out of 6167030
+ 110785 words of memory out of 5000000
+ 6023 multiletter control sequences out of 15000+600000
+ 10051 words of font info for 35 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 38i,5n,32p,698b,1389s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /Users/Alexandr/midps/LAB#1/latex/.texpadtmp/Raport_latex.pdf (21 pages, 381996 bytes).
+PDF statistics:
+ 113 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

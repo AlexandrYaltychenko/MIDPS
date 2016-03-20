@@ -7,5 +7,6 @@ resursei de timp și afișarea grafică a informației (prin intermediul diagram
 
 ###LaTeX
 
-Raportul in pdf (convertat din MS WORD) se afla in Raport.pdf
+Raportul in pdf (convertat din MS WORD) se afla in Raport.pdf.
+
 Raportul creat in LaTeX pus in Raport_latex.pdf (sursa in mapa latex)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.26)  20 MAR 2016 12:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.26)  20 MAR 2016 13:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -135,76 +135,76 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \c@lstlisting=\count102
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 22.
+(Font)              <12> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
+(Font)              <8> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
+(Font)              <6> on input line 25.
  [1
 
 {/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 44.
  (/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
  <images/1.png, id=10, 469.2732pt x 299.6796pt>
 File: images/1.png Graphic file (type png)
  <use images/1.png>
-Package pdftex.def Info: images/1.png used on input line 57.
+Package pdftex.def Info: images/1.png used on input line 65.
 (pdftex.def)             Requested size: 355.65944pt x 227.13239pt.
  <images/2.png, id=12, 469.2732pt x 294.8616pt>
 File: images/2.png Graphic file (type png)
  <use images/2.png>
-Package pdftex.def Info: images/2.png used on input line 58.
+Package pdftex.def Info: images/2.png used on input line 66.
 (pdftex.def)             Requested size: 355.65944pt x 223.48074pt.
  <images/3.png, id=13, 469.2732pt x 241.3818pt>
 File: images/3.png Graphic file (type png)
  <use images/3.png>
-Package pdftex.def Info: images/3.png used on input line 59.
+Package pdftex.def Info: images/3.png used on input line 67.
 (pdftex.def)             Requested size: 441.01772pt x 226.8584pt.
  <images/4.png, id=14, 469.2732pt x 185.9748pt>
 File: images/4.png Graphic file (type png)
  <use images/4.png>
-Package pdftex.def Info: images/4.png used on input line 60.
+Package pdftex.def Info: images/4.png used on input line 68.
 (pdftex.def)             Requested size: 441.01772pt x 174.78511pt.
  <images/5.png, id=15, 469.2732pt x 296.307pt>
 File: images/5.png Graphic file (type png)
  <use images/5.png>
-Package pdftex.def Info: images/5.png used on input line 61.
+Package pdftex.def Info: images/5.png used on input line 69.
 (pdftex.def)             Requested size: 355.65944pt x 224.57623pt.
 
-Overfull \hbox (51.01772pt too wide) in paragraph at lines 57--62
+Overfull \hbox (51.01772pt too wide) in paragraph at lines 65--70
 [] 
  []
 
 
-Overfull \hbox (51.01772pt too wide) in paragraph at lines 57--62
+Overfull \hbox (51.01772pt too wide) in paragraph at lines 65--70
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--62
+Underfull \hbox (badness 10000) in paragraph at lines 65--70
 
  []
 
 [1] [2 <./images/1.png> <./images/2.png>] [3 <./images/3.png> <./images/4.png>] <images/6.png, id=30, 469.2732pt x 301.6068pt>
 File: images/6.png Graphic file (type png)
  <use images/6.png>
-Package pdftex.def Info: images/6.png used on input line 63.
+Package pdftex.def Info: images/6.png used on input line 71.
 (pdftex.def)             Requested size: 355.65944pt x 228.59305pt.
 Missing character: There is no » in font cmbx12!
 Missing character: There is no ô in font cmbx12!
  <images/7.png, id=31, 469.2732pt x 300.6432pt>
 File: images/7.png Graphic file (type png)
  <use images/7.png>
-Package pdftex.def Info: images/7.png used on input line 65.
+Package pdftex.def Info: images/7.png used on input line 73.
 (pdftex.def)             Requested size: 355.65944pt x 227.86272pt.
  [4 <./images/5.png> <./images/6.png>] <images/8.png, id=37, 469.2732pt x 301.125pt>
 File: images/8.png Graphic file (type png)
  <use images/8.png>
-Package pdftex.def Info: images/8.png used on input line 67.
+Package pdftex.def Info: images/8.png used on input line 75.
 (pdftex.def)             Requested size: 355.65944pt x 228.22787pt.
 Missing character: There is no ƒ in font cmbx12!
 Missing character: There is no É in font cmbx12!
@@ -213,47 +213,47 @@ Missing character: There is no ô in font cmbx12!
  <images/9.png, id=38, 469.2732pt x 310.2792pt>
 File: images/9.png Graphic file (type png)
  <use images/9.png>
-Package pdftex.def Info: images/9.png used on input line 69.
+Package pdftex.def Info: images/9.png used on input line 77.
 (pdftex.def)             Requested size: 355.65944pt x 235.16602pt.
  [5 <./images/7.png> <./images/8.png>] <images/10.png, id=44, 469.2732pt x 301.125pt>
 File: images/10.png Graphic file (type png)
  <use images/10.png>
-Package pdftex.def Info: images/10.png used on input line 71.
+Package pdftex.def Info: images/10.png used on input line 79.
 (pdftex.def)             Requested size: 355.65944pt x 228.22787pt.
 
-Overfull \hbox (8.28625pt too wide) in paragraph at lines 72--72
+Overfull \hbox (8.28625pt too wide) in paragraph at lines 80--80
 []\OT1/cmr/bx/n/14.4 Desfasurarea primu-lui push (Deci branch-ul to track
  []
 
 <images/11.png, id=45, 469.2732pt x 458.6736pt>
 File: images/11.png Graphic file (type png)
  <use images/11.png>
-Package pdftex.def Info: images/11.png used on input line 73.
+Package pdftex.def Info: images/11.png used on input line 81.
 (pdftex.def)             Requested size: 355.65944pt x 347.63672pt.
  [6 <./images/9.png> <./images/10.png>] <images/12.png, id=52, 469.2732pt x 324.7332pt>
 File: images/12.png Graphic file (type png)
  <use images/12.png>
-Package pdftex.def Info: images/12.png used on input line 75.
+Package pdftex.def Info: images/12.png used on input line 83.
 (pdftex.def)             Requested size: 355.65944pt x 246.12096pt.
  <images/13.png, id=53, 469.2732pt x 324.2514pt>
 File: images/13.png Graphic file (type png)
  <use images/13.png>
-Package pdftex.def Info: images/13.png used on input line 76.
+Package pdftex.def Info: images/13.png used on input line 84.
 (pdftex.def)             Requested size: 355.65944pt x 245.7558pt.
  [7 <./images/11.png>] <images/14.png, id=58, 433.62pt x 297.7524pt>
 File: images/14.png Graphic file (type png)
  <use images/14.png>
-Package pdftex.def Info: images/14.png used on input line 78.
+Package pdftex.def Info: images/14.png used on input line 86.
 (pdftex.def)             Requested size: 355.65944pt x 244.23123pt.
  [8 <./images/12.png> <./images/13.png>] <images/15.png, id=64, 442.7742pt x 393.1488pt>
 File: images/15.png Graphic file (type png)
  <use images/15.png>
-Package pdftex.def Info: images/15.png used on input line 80.
+Package pdftex.def Info: images/15.png used on input line 88.
 (pdftex.def)             Requested size: 355.65944pt x 315.80925pt.
  [9 <./images/14.png>] <images/16.png, id=69, 406.6392pt x 361.35pt>
 File: images/16.png Graphic file (type png)
  <use images/16.png>
-Package pdftex.def Info: images/16.png used on input line 82.
+Package pdftex.def Info: images/16.png used on input line 90.
 (pdftex.def)             Requested size: 355.65944pt x 316.05365pt.
  [10 <./images/15.png>]
 Missing character: There is no ‚ in font cmbx12!
@@ -267,12 +267,12 @@ Missing character: There is no ô in font cmbx12!
  <images/17.png, id=74, 361.35pt x 320.8788pt>
 File: images/17.png Graphic file (type png)
  <use images/17.png>
-Package pdftex.def Info: images/17.png used on input line 84.
+Package pdftex.def Info: images/17.png used on input line 92.
 (pdftex.def)             Requested size: 355.65944pt x 315.83pt.
  [11 <./images/16.png>] <images/18.png, id=79, 469.2732pt x 185.493pt>
 File: images/18.png Graphic file (type png)
  <use images/18.png>
-Package pdftex.def Info: images/18.png used on input line 86.
+Package pdftex.def Info: images/18.png used on input line 94.
 (pdftex.def)             Requested size: 355.65944pt x 140.58836pt.
 Missing character: There is no ‚ in font cmbx12!
 Missing character: There is no Ä in font cmbx12!
@@ -283,12 +283,12 @@ Missing character: There is no ô in font cmbx12!
  <images/19.png, id=80, 469.2732pt x 302.0886pt>
 File: images/19.png Graphic file (type png)
  <use images/19.png>
-Package pdftex.def Info: images/19.png used on input line 88.
+Package pdftex.def Info: images/19.png used on input line 96.
 (pdftex.def)             Requested size: 355.65944pt x 228.9582pt.
  [12 <./images/17.png> <./images/18.png>] <images/20.png, id=87, 469.2732pt x 300.6432pt>
 File: images/20.png Graphic file (type png)
  <use images/20.png>
-Package pdftex.def Info: images/20.png used on input line 90.
+Package pdftex.def Info: images/20.png used on input line 98.
 (pdftex.def)             Requested size: 355.65944pt x 227.86272pt.
 Missing character: There is no ‚ in font cmbx12!
 Missing character: There is no Ä in font cmbx12!
@@ -299,7 +299,7 @@ Missing character: There is no ô in font cmbx12!
  <images/21.png, id=88, 469.2732pt x 305.943pt>
 File: images/21.png Graphic file (type png)
  <use images/21.png>
-Package pdftex.def Info: images/21.png used on input line 92.
+Package pdftex.def Info: images/21.png used on input line 100.
 (pdftex.def)             Requested size: 355.65944pt x 231.87952pt.
  [13 <./images/19.png> <./images/20.png>]
 Missing character: There is no ‚ in font cmbx12!
@@ -311,7 +311,7 @@ Missing character: There is no ô in font cmbx12!
  <images/22.png, id=94, 525.162pt x 331.4784pt>
 File: images/22.png Graphic file (type png)
  <use images/22.png>
-Package pdftex.def Info: images/22.png used on input line 94.
+Package pdftex.def Info: images/22.png used on input line 102.
 (pdftex.def)             Requested size: 355.65944pt x 224.48682pt.
 Missing character: There is no ‚ in font cmbx12!
 Missing character: There is no Ä in font cmbx12!
@@ -322,17 +322,17 @@ Missing character: There is no ù in font cmbx12!
  <images/23.png, id=95, 469.2732pt x 303.0522pt>
 File: images/23.png Graphic file (type png)
  <use images/23.png>
-Package pdftex.def Info: images/23.png used on input line 96.
+Package pdftex.def Info: images/23.png used on input line 104.
 (pdftex.def)             Requested size: 355.65944pt x 229.68854pt.
  [14 <./images/21.png> <./images/22.png>] <images/24.png, id=101, 469.2732pt x 302.5704pt>
 File: images/24.png Graphic file (type png)
  <use images/24.png>
-Package pdftex.def Info: images/24.png used on input line 98.
+Package pdftex.def Info: images/24.png used on input line 106.
 (pdftex.def)             Requested size: 355.65944pt x 229.32338pt.
  <images/25.png, id=102, 469.2732pt x 303.534pt>
 File: images/25.png Graphic file (type png)
  <use images/25.png>
-Package pdftex.def Info: images/25.png used on input line 99.
+Package pdftex.def Info: images/25.png used on input line 107.
 (pdftex.def)             Requested size: 355.65944pt x 230.05371pt.
  [15 <./images/23.png>]
 Missing character: There is no ¬ in font cmbx12!
@@ -342,15 +342,15 @@ Missing character: There is no ª in font cmbx12!
  <images/26.png, id=107, 469.2732pt x 300.1614pt>
 File: images/26.png Graphic file (type png)
  <use images/26.png>
-Package pdftex.def Info: images/26.png used on input line 101.
+Package pdftex.def Info: images/26.png used on input line 109.
 (pdftex.def)             Requested size: 355.65944pt x 227.49756pt.
  <images/27.png, id=108, 469.755pt x 293.898pt>
 File: images/27.png Graphic file (type png)
  <use images/27.png>
-Package pdftex.def Info: images/27.png used on input line 102.
+Package pdftex.def Info: images/27.png used on input line 110.
 (pdftex.def)             Requested size: 355.65944pt x 222.51273pt.
  [16 <./images/24.png> <./images/25.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
@@ -369,21 +369,21 @@ Missing character: There is no ù in font cmr12!
 Missing character: There is no » in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-Overfull \hbox (5.12228pt too wide) in paragraph at lines 118--119
+Overfull \hbox (5.12228pt too wide) in paragraph at lines 126--127
 []\OT1/cmr/m/n/12 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf -
  []
 
 [18] (/Users/Alexandr/midps/LAB#2/latex/.texpadtmp/Raport_latex.aux) ) 
 Here is how much of TeX's memory you used:
- 2835 strings out of 494501
- 42026 string characters out of 6167030
+ 2834 strings out of 494501
+ 42008 string characters out of 6167030
  97785 words of memory out of 5000000
- 6082 multiletter control sequences out of 15000+600000
- 10051 words of font info for 35 fonts, out of 8000000 for 9000
+ 6081 multiletter control sequences out of 15000+600000
+ 9750 words of font info for 34 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  38i,4n,32p,529b,841s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on /Users/Alexandr/midps/LAB#2/latex/.texpadtmp/Raport_latex.pdf (19 pages, 5575809 bytes).
+Output written on /Users/Alexandr/midps/LAB#2/latex/.texpadtmp/Raport_latex.pdf (19 pages, 5576161 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream

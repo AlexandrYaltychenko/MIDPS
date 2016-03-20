@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.26)  20 MAR 2016 13:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.26)  20 MAR 2016 14:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -135,20 +135,20 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \c@lstlisting=\count102
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 22.
+(Font)              <12> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
+(Font)              <8> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
+(Font)              <6> on input line 25.
  [1
 
 {/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 45.
  (/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
 Missing character: There is no Å in font cmr12!
 Missing character: There is no Ÿ in font cmr12!
 Missing character: There is no Å in font cmr12!
@@ -162,14 +162,14 @@ Missing character: There is no Ž in font cmr12!
 Missing character: There is no Å in font cmr12!
 Missing character: There is no Ÿ in font cmr12!
 
-Overfull \hbox (8.9557pt too wide) in paragraph at lines 38--39
+Overfull \hbox (8.9557pt too wide) in paragraph at lines 47--48
 []\OT1/cmr/m/n/12 Insuirea mod-u-lui de uti-lizare a com-po-nen-telor VCL TPaint-Box si TPanel.
  []
 
 <images/1.png, id=10, 319.1925pt x 221.82875pt>
 File: images/1.png Graphic file (type png)
  <use images/1.png>
-Package pdftex.def Info: images/1.png used on input line 45.
+Package pdftex.def Info: images/1.png used on input line 54.
 (pdftex.def)             Requested size: 355.65944pt x 247.17378pt.
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ƒ in font cmr12!
@@ -178,20 +178,20 @@ Missing character: There is no ® in font cmr12!
  <images/2.png, id=12, 469.755pt x 236.885pt>
 File: images/2.png Graphic file (type png)
  <use images/2.png>
-Package pdftex.def Info: images/2.png used on input line 49.
+Package pdftex.def Info: images/2.png used on input line 58.
 (pdftex.def)             Requested size: 455.24408pt x 229.56851pt.
  <images/3.png, id=13, 279.0425pt x 203.76125pt>
 File: images/3.png Graphic file (type png)
  <use images/3.png>
-Package pdftex.def Info: images/3.png used on input line 50.
+Package pdftex.def Info: images/3.png used on input line 59.
 (pdftex.def)             Requested size: 355.65944pt x 259.71597pt.
 
-Overfull \hbox (94.61877pt too wide) in paragraph at lines 46--51
+Overfull \hbox (94.61877pt too wide) in paragraph at lines 55--60
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--51
+Underfull \hbox (badness 10000) in paragraph at lines 55--60
 
  []
 
@@ -207,39 +207,39 @@ Missing character: There is no ƒ in font cmr12!
  <images/4.png, id=19, 467.7475pt x 282.05376pt>
 File: images/4.png Graphic file (type png)
  <use images/4.png>
-Package pdftex.def Info: images/4.png used on input line 52.
+Package pdftex.def Info: images/4.png used on input line 61.
 (pdftex.def)             Requested size: 355.65944pt x 214.47496pt.
  <images/5.png, id=20, 327.2225pt x 273.02pt>
 File: images/5.png Graphic file (type png)
  <use images/5.png>
-Package pdftex.def Info: images/5.png used on input line 53.
+Package pdftex.def Info: images/5.png used on input line 62.
 (pdftex.def)             Requested size: 298.75394pt x 249.26927pt.
  [2 <./images/2.png> <./images/3.png>] [3 <./images/4.png> <./images/5.png>]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 62.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 71.
  (/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 62.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 71.
  [4] [5] <images/6.png, id=38, 308.352pt x 208.1376pt>
 File: images/6.png Graphic file (type png)
  <use images/6.png>
-Package pdftex.def Info: images/6.png used on input line 135.
+Package pdftex.def Info: images/6.png used on input line 144.
 (pdftex.def)             Requested size: 298.75394pt x 201.66138pt.
  [6 <./images/6.png>] [7] [8] [9] [10] <images/7.png, id=56, 334.3692pt x 253.4268pt>
 File: images/7.png Graphic file (type png)
  <use images/7.png>
-Package pdftex.def Info: images/7.png used on input line 318.
+Package pdftex.def Info: images/7.png used on input line 327.
 (pdftex.def)             Requested size: 298.75394pt x 226.44627pt.
  [11 <./images/7.png>] [12] [13] [14] [15] [16]
-Overfull \hbox (25.94928pt too wide) in paragraph at lines 527--529
+Overfull \hbox (25.94928pt too wide) in paragraph at lines 536--538
 [][][][][][][][][][][][][][][][][] 
  []
 
 [17] [18] <images/8.png, id=84, 525.162pt x 353.1594pt>
 File: images/8.png Graphic file (type png)
  <use images/8.png>
-Package pdftex.def Info: images/8.png used on input line 604.
+Package pdftex.def Info: images/8.png used on input line 613.
 (pdftex.def)             Requested size: 298.75394pt x 200.90416pt.
 Missing character: There is no È in font cmr12!
 Missing character: There is no ™ in font cmr12!
@@ -259,15 +259,15 @@ Missing character: There is no Ã in font cmr12!
 Missing character: There is no ® in font cmr12!
  [19 <./images/8.png>] [20] (/Users/Alexandr/midps/LAB#1/latex/.texpadtmp/Raport_latex.aux) ) 
 Here is how much of TeX's memory you used:
- 2761 strings out of 494501
- 40938 string characters out of 6167030
+ 2760 strings out of 494501
+ 40920 string characters out of 6167030
  110785 words of memory out of 5000000
- 6023 multiletter control sequences out of 15000+600000
- 10051 words of font info for 35 fonts, out of 8000000 for 9000
+ 6022 multiletter control sequences out of 15000+600000
+ 9750 words of font info for 34 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  38i,5n,32p,698b,1389s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on /Users/Alexandr/midps/LAB#1/latex/.texpadtmp/Raport_latex.pdf (21 pages, 381996 bytes).
+Output written on /Users/Alexandr/midps/LAB#1/latex/.texpadtmp/Raport_latex.pdf (21 pages, 382577 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream

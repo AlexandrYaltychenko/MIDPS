@@ -5,5 +5,5 @@
 **/obj
 **/*.obj
 **/*.vhost.*
-**/*.exe.config
+**/*.exe.*
 **/*.pdb

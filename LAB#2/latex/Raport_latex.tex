@@ -1,5 +1,6 @@
 \documentclass[12pt]{article}
 \usepackage{graphicx}
+\usepackage{listings}
 \begin{document}
 
 \begin{titlepage}
@@ -46,7 +47,12 @@ Cojocaru \textsc{Svetlana}
 \item 	merge 2 branches
 \item 	conflict solving between 2 branches
 \end{itemize}
-\section{Indeplinirea task-urilor}
+
+\section *{Bonus Point}
+\begin{itemize}
+\item Scrie un script care va compila HelloWolrdPrograms projects.	
+\end{itemize}
+\section {Indeplinirea task-urilor}
 \subsection{Configurarea autentificarii ssh}
 \includegraphics[width=12.5cm]{images/1}\\
 \includegraphics[width=12.5cm]{images/2}\\
@@ -94,6 +100,11 @@ Cojocaru \textsc{Svetlana}
 \subsection{Terminarea procesului de «branch merging»}
 \includegraphics[width=12.5cm]{images/26}\\
 \includegraphics[width=12.5cm]{images/27}
+\section {Bonus Point}
+\textbf{Bash-script-ul pentru compilarea hello-world-urilor in limbaje C, Java, C++, Python:}\\
+\begin{lstlisting}#!/bin/bashgcc hello_c.c -o hello_cjavac hello_java.javag++ hello_c++.cpp -o hello_c++python -m py_compile hello_python.py
+\end{lstlisting}
+
 \section*{Concluzii}
 In cadrul acestei lucrari de laborator am studiat principiile si modul de utilizare a sistemului de control al versiunilor – Git. Prin intermediul CLI am configurat SSH autentificarea, am facut primul git commit și am sincronizat dispozitoriul local cu cel remote, plasat pe server. Mai departe am reusit sa fac “branch merging” si solutionez conflictul care a aparut. Cunoștintele, obtinute pe parcursul desfasurarii lucrarii de laborator vor fi foarte utile pentru realizarea proiectelor, ce urmeaza.
 \section*{Bibliografie}

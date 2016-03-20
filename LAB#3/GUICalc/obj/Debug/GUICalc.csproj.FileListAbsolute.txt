@@ -1,9 +1,0 @@
-c:\users\александр\documents\visual studio 2015\Projects\GUICalc\GUICalc\bin\Debug\GUICalc.exe.config
-c:\users\александр\documents\visual studio 2015\Projects\GUICalc\GUICalc\bin\Debug\GUICalc.exe
-c:\users\александр\documents\visual studio 2015\Projects\GUICalc\GUICalc\bin\Debug\GUICalc.pdb
-c:\users\александр\documents\visual studio 2015\Projects\GUICalc\GUICalc\obj\Debug\GUICalc.csprojResolveAssemblyReference.cache
-c:\users\александр\documents\visual studio 2015\Projects\GUICalc\GUICalc\obj\Debug\GUICalc.Form1.resources
-c:\users\александр\documents\visual studio 2015\Projects\GUICalc\GUICalc\obj\Debug\GUICalc.Properties.Resources.resources
-c:\users\александр\documents\visual studio 2015\Projects\GUICalc\GUICalc\obj\Debug\GUICalc.csproj.GenerateResource.Cache
-c:\users\александр\documents\visual studio 2015\Projects\GUICalc\GUICalc\obj\Debug\GUICalc.exe
-c:\users\александр\documents\visual studio 2015\Projects\GUICalc\GUICalc\obj\Debug\GUICalc.pdb

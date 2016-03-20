@@ -22,4 +22,4 @@ Link-ul: [Rubinius](http://rubinius.com/2011/03/17/running-ruby-with-no-ruby/)
 Versiunea raportului in pdf (convertat din MS WORD) poate fi gasita in fisierul
 Raport.pdf.
 
-Am incercat sa fac raport si in LaTeX. Rezultatul se afla in raport_latex.pdf, iar sursa in mapa latex.
+Am incercat sa fac raport si in LaTeX. Rezultatul se afla in Raport_latex.pdf, iar sursa in mapa latex.

@@ -130,6 +130,7 @@ namespace GUICalc
             Double.TryParse(field.Text, out d);
             Processor.mem2 = d;
             Console.WriteLine("TTT "+Processor.mem1+"   "+Processor.mem2);
+            Console.WriteLine("" + Processor.getResult(Processor.curOp));
             if (Processor.curOp != Processor.operations.none)
             setText(Processor.getResult(Processor.curOp) + "");
             Processor.v1 = Processor.v2 = false;
@@ -249,7 +250,7 @@ namespace GUICalc
                 Processor.last = 0;
             }
             else field.Text = s;
-            if (field.Text.Contains("-0"))
+            if (field.Text.Equals("-0"))
                 field.Text = "0";
         }
     }

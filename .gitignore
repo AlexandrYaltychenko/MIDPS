@@ -4,3 +4,6 @@
 **/Temporary*.*
 **/obj
 **/*.obj
+**/*.vhost.*
+**/*.exe.config
+**/*.pdb

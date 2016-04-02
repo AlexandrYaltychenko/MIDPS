@@ -208,7 +208,7 @@ $(document).ready(function(){
    });
 });
 \end{lstlisting}
-apelam functia loadLog() pentru a initia ajax request care va descarca de pe server ultimele raspunsuri ale utilizatorilor (ca sa nu fie chatbox-ul gol exact dupa logarea). Apoi informam scriptul enter.php ca utilizatorul deja a logat. Mai departe setam link-ul exit ca in cazul apasarii lui sa apara intrebarea daca utilizatorul cu adevarat vrea sa termina sesiunea. La sfarsit setam ca inainte de inchidere a paginii de catre utilizator sa fie informat scriptul enter.php
+apelam functia loadLog() pentru a initia ajax request care va descarca de pe server ultimele raspunsuri ale utilizatorilor (ca sa nu fie chatbox-ul gol exact dupa logarea). Apoi informam scriptul enter.php ca utilizatorul deja a logat. Mai departe setam link-ul exit ca in cazul apasarii lui sa apara intrebarea daca utilizatorul cu adevarat vrea sa termina sesiunea. La sfarsit setam ca inainte de inchidere a paginii de catre utilizator sa fie informat scriptul enter.php.
 \newpage
 \begin{lstlisting}[language=php, caption={Fisierul index.php. Trimiterea mesajelor scrise de utilizator}, label=list2]
 $("#submitmsg").click(function(){	
@@ -279,7 +279,6 @@ Scriptul post.php primeste ajax-requests de la pagina principala (index.php) si 
 require_once("bd_connect.php");
 session_start();
 if(isset($_SESSION['name'])){
-    $text = $_POST['text'];
     mysql_query("INSERT INTO `answers` (`msg`,`stamp`,`datetime`,`nick`) VALUES ('".$_POST['text']."','".time()."','".date("g:i A")."','".$_SESSION['name']."')") or die(mysql_error());
 }
 ?>

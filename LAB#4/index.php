@@ -43,7 +43,7 @@ else{
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Chat - Customer Module</title>
+<title>Free Chat</title>
 <link type="text/css" rel="stylesheet" href="style.css" />
 </head>
 <center><font size="5" color="black">Enjoy free Chat!</font></center><p class="logout"><a id="exit" href="#"> (Exit Chat)</a><br><br>
@@ -79,7 +79,7 @@ $(document).ready(function(){
     loadLog();
     $.post("enter.php", {text: 'login'});  
 	$("#exit").click(function(){
-		var exit = confirm("Are you sure you want to end the session?");
+		var exit = confirm("Are you sure you want to end session?");
 		if(exit==true){window.location = 'index.php?logout=true';}		
 	});
    $(window).on('beforeunload', function(){
